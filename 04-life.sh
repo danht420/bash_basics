@@ -19,8 +19,8 @@ echo "What time is it right now"
 read morning
 
 if [ "$morning" -eq 600 ]; then
-	echo "Thanks for letting me know that it's morning!"
+	echo "Rise and shine~"
 else
-	echo "It isn't? What time is it then...?"
+	echo "NOOOO!!! I MISSED THE SUN!!!"
 fi
 
